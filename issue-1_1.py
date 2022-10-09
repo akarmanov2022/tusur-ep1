@@ -23,5 +23,7 @@ for i in x:
 
 ax.plot(x, y)
 
-plt.title("")
+plt.title("Графики. Вариант 12.")
+plt.xlabel('X')
+plt.ylabel('Y')
 plt.show()
