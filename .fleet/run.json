@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+          "type": "python",
+          "name": "issue-1_1",
+          "file": "issue-1_1.py",
+          "arguments": [],
+        },
+        {
+          "type": "python",
+          "name": "issue-1_2",
+          "file": "issue-1_2.py",
+          "arguments": [],
+        },
+
+    ]
+}
