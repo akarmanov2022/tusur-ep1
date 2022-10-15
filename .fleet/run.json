@@ -12,6 +12,12 @@
           "file": "issue-1_2.py",
           "arguments": [],
         },
+        {
+          "type": "python",
+          "name": "issue-1_3",
+          "file": "issue-1_3.py",
+          "arguments": [],
+        },
 
     ]
 }
