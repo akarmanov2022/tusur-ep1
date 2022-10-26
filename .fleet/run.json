@@ -2,6 +2,7 @@
     "configurations": [
         {
           "type": "python",
+<<<<<<< HEAD
           "name": "issue-1_1",
           "file": "issue-1_1.py",
           "arguments": [],
@@ -16,6 +17,10 @@
           "type": "python",
           "name": "issue-1_3",
           "file": "issue-1_3.py",
+=======
+          "name": "issue-2_1",
+          "file": "issue-2_1.py",
+>>>>>>> issue-2
           "arguments": [],
         },
 
