@@ -30,10 +30,10 @@ detA4 = get_sub_det(A, B, 3)
 print(detA1)
 print(A)
 X = [
-    detA1 / detA,
-    detA2 / detA,
-    detA3 / detA,
-    detA4 / detA
+    (detA1 / detA).__round__(),
+    (detA2 / detA).__round__(),
+    (detA3 / detA).__round__(),
+    (detA4 / detA).__round__()
 ]
 
 print(X)

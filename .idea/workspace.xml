@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da3b0c55-d1ea-42ab-ad94-0f4d89e8205c" name="Changes" comment="Выполнил задание 2.2.">
-      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/issue-3_1.py" afterDir="false" />
+    <list default="true" id="da3b0c55-d1ea-42ab-ad94-0f4d89e8205c" name="Changes" comment="Выполнил задание 3.">
+      <change afterPath="$PROJECT_DIR$/issue-1/issue-1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issue-1/issue-1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issue-1/issue-1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issue-4/issue-4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issue-4/issue-4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issue-4/issue-4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issue-5/issue-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/issue-5/issue-5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-1/issue-1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-1/issue-1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-1/issue-1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-2/issue-2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-2/issue-2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-3/issue-3_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +74,14 @@
       <recent name="D:\Workspace\TUSUR\EP1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Workspace\TUSUR\EP1\doc" />
+      <recent name="D:\Workspace\TUSUR\EP1\issue-4" />
+      <recent name="D:\Workspace\TUSUR\EP1\issue-3" />
+      <recent name="D:\Workspace\TUSUR\EP1\issue-2" />
+      <recent name="D:\Workspace\TUSUR\EP1" />
+      <recent name="D:\Workspace\TUSUR\EP1\issue-1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.issue-3_1">
+  <component name="RunManager" selected="Python.issue-2_1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="EP1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-1_1.py" />
+      <option name="SCRIPT_NAME" value="D:\Workspace\TUSUR\EP1\issue-1\issue-1_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,18 +130,34 @@
       <module name="EP1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-1_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-1/issue-1_2.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="issue-1_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EP1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-1/issue-1_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -136,18 +168,15 @@
       <module name="EP1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-2_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-2/issue-2_1.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -164,7 +193,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-2_2.py" />
+      <option name="SCRIPT_NAME" value="D:\Workspace\TUSUR\EP1\issue-2\issue-2_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,17 +202,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="issue-3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="issue-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EP1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-3_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-5/issue-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,17 +223,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.issue-1_1" />
-      <item itemvalue="Python.issue-2_2" />
-      <item itemvalue="Python.issue-3_1" />
-      <item itemvalue="Python.issue-2_1" />
       <item itemvalue="Python.issue-1_2" />
+      <item itemvalue="Python.issue-1_3" />
+      <item itemvalue="Python.issue-2_1" />
+      <item itemvalue="Python.issue-2_2" />
+      <item itemvalue="Python.issue-5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.issue-3_1" />
-        <item itemvalue="Python.issue-2_2" />
         <item itemvalue="Python.issue-2_1" />
+        <item itemvalue="Python.issue-1_3" />
         <item itemvalue="Python.issue-1_2" />
+        <item itemvalue="Python.issue-2_2" />
+        <item itemvalue="Python.issue-5" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +251,8 @@
       <workItem from="1665293748336" duration="3456000" />
       <workItem from="1665317421596" duration="1736000" />
       <workItem from="1666888694965" duration="132000" />
-      <workItem from="1667043423059" duration="2514000" />
+      <workItem from="1667043423059" duration="5903000" />
+      <workItem from="1667051568494" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1665293847687</created>
@@ -264,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667044514141</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Выполнил задание 3.">
+      <created>1667046650734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667046650734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,12 +327,13 @@
     <MESSAGE value="Дополнил задание 1.1." />
     <MESSAGE value="Выполнил задание 1.2." />
     <MESSAGE value="Выполнил задание 2.2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил задание 2.2." />
+    <MESSAGE value="Выполнил задание 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнил задание 3." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EP1$issue_1_2.coverage" NAME="issue-1_2 Coverage Results" MODIFIED="1665296001527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EP1$issue_1_1__1_.coverage" NAME="issue-1_1 (1) Coverage Results" MODIFIED="1663769441003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EP1$issue_2_1.coverage" NAME="issue-2_1 Coverage Results" MODIFIED="1666803629247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/EP1$issue_1_1.coverage" NAME="issue-1_1 Coverage Results" MODIFIED="1665295661166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EP1$issue_1_1.coverage" NAME="issue-1_1 Coverage Results" MODIFIED="1667054624356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
