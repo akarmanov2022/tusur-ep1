@@ -23,11 +23,11 @@ def get_sub_det(matrix_a, matrix_b, index: int):
 detA1 = get_sub_det(A, B, 0)
 print(detA1)
 detA2 = get_sub_det(A, B, 1)
-print(detA1)
+print(detA2)
 detA3 = get_sub_det(A, B, 2)
-print(detA1)
+print(detA3)
 detA4 = get_sub_det(A, B, 3)
-print(detA1)
+print(detA4)
 print(A)
 X = [
     (detA1 / detA).__round__(),
@@ -35,5 +35,4 @@ X = [
     (detA3 / detA).__round__(),
     (detA4 / detA).__round__()
 ]
-
 print(X)
