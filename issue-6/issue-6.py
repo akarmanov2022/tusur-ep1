@@ -17,11 +17,11 @@ x = np.linspace(min(X), max(X), num=100, endpoint=True)
 fig, ax = plt.subplots()
 
 kind_lst = ['linear', 'cubic', 'quadratic']
-ax.plot(XP, YP, label="Y", marker="o")
+ax.plot(XP, YP, label="Y", marker="d")
 for k in kind_lst:
     f = interpolate.interp1d(XP, YP, kind=k)
     y_new = f(x)
     ax.plot(x, y_new, label=k)
 
-ax.legend(loc="lower right")
+ax.legend()
 plt.show()
