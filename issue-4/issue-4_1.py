@@ -1,4 +1,4 @@
-# Интегрирование. Определенный интеграл. Вариант 12.
+# Интегрирование. Определенный интеграл. Вариант 19.
 from scipy import integrate
 from matplotlib import pyplot as plt
 import numpy as np

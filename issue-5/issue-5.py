@@ -7,12 +7,12 @@ Y = [148.9, 2129.0, 9910.0, -24.43, -34.09, 208.1, 1439.0, 183.1, 1660.0, -24.82
 
 z = zip(X, Y)
 
-zs = sorted(z, key=lambda tup: tup[0])
+zs = sorted(z, key=lambda t: t[0])
 
 XP = [z[0] for z in zs]
 YP = [z[1] for z in zs]
 
-x = np.linspace(1.052, 8.951, num=100, endpoint=True)
+x = np.linspace(0.04856, 9.452, num=100, endpoint=True)
 
 fig, ax = plt.subplots()
 

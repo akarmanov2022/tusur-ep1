@@ -84,13 +84,13 @@ print("Checking ort A = ", np.round(np.linalg.norm(ortA)))
 print("Checking ort B = ", np.round(np.linalg.norm(ortB)))
 
 # 1.4.7.3
-print("Sum vectors = ", np.sum(a) + np.sum(b))
+print("Сумма векторов = ", np.sum(a) + np.sum(b))
 
 # 1.4.7.4
-print("Count positive values in A = ", len(a[a >= 0]))
-print("Count negative values in A = ", len(a[a < 0]))
-print("Count positive values in B = ", len(b[b >= 0]))
-print("Count negative values in B = ", len(b[b < 0]))
+print("Число положительных значений в A = ", len(a[a >= 0]))
+print("Число отрицательных значений в A = ", len(a[a < 0]))
+print("Число положительных значений в B = ", len(b[b >= 0]))
+print("Число отрицательных значений в B = ", len(b[b < 0]))
 
 # 1.4.7.5
 print("Scalar product of vectors = ", np.dot(a, b))
