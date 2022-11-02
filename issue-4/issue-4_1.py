@@ -12,7 +12,7 @@ v, err = integrate.quad(f, 0, np.pi / 4)
 x = []
 y = []
 h = 0
-print("solution =", v)
+print("Решение = ", v)
 while h < np.pi / 4:
     x.append(h)
     y.append(f(h))

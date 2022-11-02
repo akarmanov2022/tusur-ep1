@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da3b0c55-d1ea-42ab-ad94-0f4d89e8205c" name="Changes" comment="Выполнил все задания по практике.">
-      <change afterPath="$PROJECT_DIR$/issue-3/123.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/issue-6/issue-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue-2/issue-2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-2/issue-2_2.py" afterDir="false" />
+    <list default="true" id="da3b0c55-d1ea-42ab-ad94-0f4d89e8205c" name="Changes" comment="Исправления.">
+      <change beforePath="$PROJECT_DIR$/issue-3/123.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/issue-3/issue-3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-3/issue-3_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/issue-4/issue-4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-4/issue-4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue-4/issue-4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-4/issue-4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-5/issue-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/issue-6/issue-6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/issue-5/issue-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-5/issue-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue-6/issue-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-6/issue-6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
       <recent name="D:\Workspace\TUSUR\EP1\issue-1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.issue-2_2">
+  <component name="RunManager" selected="Python.issue-6">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="EP1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="issue-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="issue-6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EP1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,12 +181,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/issue-5/issue-5.py" />
+      <option name="SCRIPT_NAME" value="D:\Workspace\TUSUR\EP1\issue-5\issue-6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +199,8 @@
       <module name="EP1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/issue-5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -222,15 +217,14 @@
     <list>
       <item itemvalue="Python.issue-1_1" />
       <item itemvalue="Python.issue-2_2" />
+      <item itemvalue="Python.issue-6" />
       <item itemvalue="Python.issue-4_1" />
       <item itemvalue="Python.issue-4_2" />
-      <item itemvalue="Python.issue-5" />
-      <item itemvalue="Python.issue-6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.issue-6" />
         <item itemvalue="Python.issue-2_2" />
-        <item itemvalue="Python.issue-5" />
         <item itemvalue="Python.issue-6" />
         <item itemvalue="Python.issue-4_2" />
         <item itemvalue="Python.issue-4_1" />
@@ -253,7 +247,7 @@
       <workItem from="1667051568494" duration="2745000" />
       <workItem from="1667118966429" duration="4056000" />
       <workItem from="1667136904721" duration="6094000" />
-      <workItem from="1667367636276" duration="556000" />
+      <workItem from="1667367636276" duration="1160000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1665293847687</created>
@@ -311,7 +305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667055988135</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Исправления.">
+      <created>1667368211801</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667368211801</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Исправления.">
+      <created>1667368238462</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667368238462</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +345,8 @@
     <MESSAGE value="Выполнил задание 2.2." />
     <MESSAGE value="Выполнил задание 3." />
     <MESSAGE value="Выполнил все задания по практике." />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил все задания по практике." />
+    <MESSAGE value="Исправления." />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправления." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EP1$issue_1_2.coverage" NAME="issue-1_2 Coverage Results" MODIFIED="1665296001527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
