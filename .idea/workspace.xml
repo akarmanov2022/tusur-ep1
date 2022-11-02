@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3b0c55-d1ea-42ab-ad94-0f4d89e8205c" name="Changes" comment="Исправления.">
-      <change beforePath="$PROJECT_DIR$/issue-3/123.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue-3/issue-3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-3/issue-3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue-4/issue-4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-4/issue-4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue-5/issue-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/issue-6/issue-6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue-5/issue-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-5/issue-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue-6/issue-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue-6/issue-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Дневника.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Образец Дневника по практике.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +54,11 @@
       <recent name="D:\Workspace\TUSUR\EP1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\TUSUR\EP1\issue-6" />
+      <recent name="D:\Workspace\TUSUR\EP1\issue-5" />
       <recent name="D:\Workspace\TUSUR\EP1\issue-4" />
       <recent name="D:\Workspace\TUSUR\EP1\issue-3" />
       <recent name="D:\Workspace\TUSUR\EP1\issue-2" />
-      <recent name="D:\Workspace\TUSUR\EP1" />
-      <recent name="D:\Workspace\TUSUR\EP1\issue-1" />
     </key>
   </component>
   <component name="RunManager" selected="Python.issue-6">
@@ -247,7 +243,7 @@
       <workItem from="1667051568494" duration="2745000" />
       <workItem from="1667118966429" duration="4056000" />
       <workItem from="1667136904721" duration="6094000" />
-      <workItem from="1667367636276" duration="1160000" />
+      <workItem from="1667367636276" duration="1635000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1665293847687</created>
@@ -319,7 +315,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667368238462</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Исправления.">
+      <created>1667368813149</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667368813149</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Исправления.">
+      <created>1667369058955</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667369058955</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
